@@ -32,7 +32,9 @@ K+1 | SOMA
 12 | 78
 13 | 91
 
-> Ao final do processamento, qual será o valor da variável SOMA?   **91**
+Ao final do processamento, qual será o valor da variável SOMA?
+
+**RESPOSTA:** **91**
 
 
 
@@ -47,41 +49,52 @@ K+1 | SOMA
 >
 >Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 
+**RESPOSTA:** **questao2.java**
+
 ---
 
 3. Descubra a lógica e complete o próximo elemento:
 
 
 
-> a) 1, 3, 5, 7, ___ **9**
->
-> n = (n-1) + 2
+ a) 1, 3, 5, 7, ___ **9**
 
-> b) 2, 4, 8, 16, 32, 64, ____**128**
->
+> Explicação:
+> 
+>  n = (n-1) + 2
+
+ b) 2, 4, 8, 16, 32, 64, ____**128**
+
+> Explicação:
 > n = (n-1) * 2
 
-> c) 0, 1, 4, 9, 16, 25, 36, ____**49**
->
-> 0², 1² , 2², 3², 4², 5², 6², ____**7²**
+ c) 0, 1, 4, 9, 16, 25, 36, ____**49**
 
-> d) 4, 16, 36, 64, ____**100**
->
-> n, n+x, n+(x+8)
+ > Explicação:
+ > 
+ > 0², 1² , 2², 3², 4², 5², 6², ____**7²**
 
-> e) 1, 1, 2, 3, 5, 8, ____**13**
->
-> Fibonacci: n = (n-1) + (n-2)
+ d) 4, 16, 36, 64, ____**100**
 
-> f) 2,10, 12, 16, 17, 18, 19, ____**200**
->
-> Dois, Dez, Doze, Dezesseis, Dezessete, Dezoito, Dezenove, Duzentos
+ > Explicação:
+ > 
+ > n = ((n-1) - (n-2)) + 8) + (n-1)
+
+ e) 1, 1, 2, 3, 5, 8, ____**13**
+
+ > Explicação: Sequência de Fibonacci
+ > 
+ > n = (n-1) + (n-2)
+
+ f) 2,10, 12, 16, 17, 18, 19, ____**200**
+
+ > Explicação: Todos iniciam com a letra "D"
+ > 
+ > Dois, Dez, Doze, Dezesseis, Dezessete, Dezoito, Dezenove, Duzentos
 
 ---
 
 4. Dois veículos (um carro e um caminhão) saem respectivamente de cidades opostas pela mesma rodovia. O carro de Ribeirão Preto em direção a Franca, a uma velocidade constante de 110 km/h e o caminhão de Franca em direção a Ribeirão Preto a uma velocidade constante de 80 km/h. Quando eles se cruzarem na rodovia, qual estará mais próximo a cidade de Ribeirão Preto?
-
-
 
 >IMPORTANTE:
 >
@@ -91,7 +104,7 @@ K+1 | SOMA
 >
 >* Explique como chegou no resultado.
 
-> R= Quando eles se cruzarem, ambos estarão a mesma distância de Ribeirão Preto. Logo após se cruzarem, caso continuem nas direções iniciais, o caminhão, então estará mais próximo.
+**R=** Quando eles se cruzarem, ambos estarão à mesma distância de Ribeirão Preto. Logo após se cruzarem, caso continuem nas direções iniciais, o caminhão, então estará mais próximo.
 
 
 ---
@@ -99,10 +112,10 @@ K+1 | SOMA
 
 5) Escreva um programa que inverta os caracteres de um string.
 
-
-
 >IMPORTANTE:
 >
 >* Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 >
 >* Evite usar funções prontas, como, por exemplo, reverse;
+
+**R=** questao5.java
