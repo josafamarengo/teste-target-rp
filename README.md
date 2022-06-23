@@ -49,7 +49,7 @@ Ao final do processamento, qual será o valor da variável SOMA?
 >
 >Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 
-**RESPOSTA:** **questao2.java**
+**RESPOSTA:** **src/main/com/teste/questao2.java**
 
 ---
 
@@ -118,4 +118,4 @@ Ao final do processamento, qual será o valor da variável SOMA?
 >
 >* Evite usar funções prontas, como, por exemplo, reverse;
 
-**R=** questao5.java
+**R=** **src/main/com/teste/questao5.java**
